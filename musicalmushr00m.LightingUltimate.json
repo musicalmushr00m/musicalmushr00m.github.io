@@ -1,6 +1,6 @@
 {
-    "version": "2.1.0",
-    "changelog": "Ambrose update, astronomically faster deploy times (aproximately 95%), and experimental new Time of Day (Dawn) for World of Tomorrow",
+    "version": "2.2.0",
+    "changelog": "SMF 2.0 update! Adds additional levels to GOTY Pack (preview).",
     "url": "https://www.dropbox.com/s/g4yrn9xkvkn9fe3/lighting-ultimate-2.2.framework.zip?dl=1",
     "managedFilesAndFolders": ["Lighting Ultimate"]
 }
