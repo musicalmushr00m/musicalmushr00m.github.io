@@ -1,6 +1,6 @@
 {
-    "version": "2.2.0",
-    "changelog": "SMF 2.0 update! Adds additional levels to GOTY Pack (preview).",
-    "url": "https://www.dropbox.com/s/7id6c535l5a3ase/lighting-ultimate-2.2.framework.zip?dl=1",
+    "version": "2.3.0",
+    "changelog": "Full support for Freelancer mode and the safehouse. Fixes a bug relating to BOXC on Bangkok, Colorado, and Hokkaido (Vanilla+).",
+    "url": "https://github.com/team-mushroom/lighting-ultimate/releases/download/2.3.0/mod.framework.zip",
     "managedFilesAndFolders": ["Lighting Ultimate"]
 }
